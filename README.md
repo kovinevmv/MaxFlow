@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d7b2719bfe414e1fa8c42b882b57fd7c)](https://www.codacy.com/manual/kovinevmv/MaxFlow?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kovinevmv/MaxFlow&amp;utm_campaign=Badge_Grade)
 # MaxFlow
 
 Программа расчета максимального потока в сети с использованием анимации.
