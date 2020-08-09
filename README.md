@@ -1,4 +1,3 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d7b2719bfe414e1fa8c42b882b57fd7c)](https://www.codacy.com/manual/kovinevmv/MaxFlow?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kovinevmv/MaxFlow&amp;utm_campaign=Badge_Grade)
 # MaxFlow
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e76c633847554ee484a50f21a00db98d)](https://app.codacy.com/manual/kovinevmv/MaxFlow?utm_source=github.com&utm_medium=referral&utm_content=kovinevmv/MaxFlow&utm_campaign=Badge_Grade_Settings)
